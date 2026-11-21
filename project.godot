@@ -1,8 +1,8 @@
 config_version=5
 
 [application]
-config/name="전사 전투 시험"
-run/main_scene="res://src/prototype/main.tscn"
+config/name="전직 용사의 구출 작전"
+run/main_scene="res://src/game/main.tscn"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 
 [display]
